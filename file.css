@@ -1,0 +1,27 @@
+
+#title{
+    text-align: center;
+    align-items: center;
+    background-color: rgb(255, 157, 82);
+}
+table{
+    text-align: center;
+    border-spacing: 2px;
+    
+}
+td{
+    padding: 20px;
+}
+.heading{
+    background-color: lightyellow;
+}
+tr{
+    background-color: lightblue;
+}
+.total{
+    background-color: lightpink;
+}
+
+.col{
+    background-color: rgb(136, 247, 255);
+}
